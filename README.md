@@ -4,6 +4,8 @@
 
 Site de um restaurante moderno.
 
+[Acesse o site](https://rochamaatheus.github.io/LeScone/)
+
 <div style="display: inline-block"><br>
   <img align="center" alt="Rocha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rocha-SASS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
